@@ -1,0 +1,20 @@
+/* common shared style */
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.text-primary{
+    color: rgb(253, 110, 10);
+}
+
+/* nav related style */
+nav {
+    display: flex;
+}
+
+.nav-title {
+    font-size: 45px;
+    font-weight: 800;
+    text-align: left;
+}
